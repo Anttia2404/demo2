@@ -2,12 +2,10 @@
 
 using namespace std;
 
-using namespace std;
 
 int main(){
-    cout<<"Hello World";
     int n;
     cin>>n;
-    cout<<n<<endl;
+    cout<<n+1<<endl;
     return 0;
 }
